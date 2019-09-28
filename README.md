@@ -1,4 +1,4 @@
-# docker-aria2
+# docker-aria2-with-ariang
 
 [![](https://images.microbadger.com/badges/version/maxduke/aria2-with-ariang.svg)](https://microbadger.com/images/maxduke/aria2-with-ariang "Get your own version badge on microbadger.com")
 [![](https://images.microbadger.com/badges/image/maxduke/aria2-with-ariang.svg)](https://microbadger.com/images/maxduke/aria2-with-ariang "Get your own image badge on microbadger.com")
