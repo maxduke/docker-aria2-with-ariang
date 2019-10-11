@@ -14,7 +14,6 @@ RUN set -xe \
 	&& rm -rf AriaNg-$ARIANG_VERSION.zip /var/cache/apk/* \
 	&& chmod +x /init.sh
 
-WORKDIR /
 VOLUME ["/aria2/conf", "/aria2/downloads"]
 EXPOSE 6800 80 8080
 
