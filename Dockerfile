@@ -1,7 +1,7 @@
 FROM alpine:latest
 MAINTAINER MaxDuke <maxduke@gmail.com>
 
-ENV ARIANG_VERSION 1.2.3
+ENV ARIANG_VERSION 1.2.4
 
 COPY root/ /
 
