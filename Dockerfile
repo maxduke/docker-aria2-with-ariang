@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.19
 MAINTAINER MaxDuke <maxduke@gmail.com>
 
 ENV ARIANG_VERSION 1.3.12
